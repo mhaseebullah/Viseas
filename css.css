@@ -279,7 +279,7 @@
 	text-align: left;
 }
 .my-card h5{
-	margin-top: 38px;
+	
 	text-align: left;
 	color: #0c0c0c;
 	padding-left: 17px;
@@ -291,7 +291,10 @@
 
 .my-card2{
 	border-radius: 0px;
+	
+	cursor: pointer;
 }
+
 
 .my-card2 h1{
 	color: #0c0c0c;
