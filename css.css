@@ -9,6 +9,10 @@
 	box-sizing: border-box;
 }
 
+body{
+	overflow-x: hidden;
+}
+
 .my-navbar{
 	background-color:#030B4B;
 	
